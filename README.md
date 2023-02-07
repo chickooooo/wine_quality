@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![spaceship titanic](https://raw.githubusercontent.com/Masterx-AI/Project_Wine_Quality_Investigation/main/wq.jpg "spaceship titanic")
+![cover photo](https://raw.githubusercontent.com/Masterx-AI/Project_Wine_Quality_Investigation/main/wq.jpg "wine quality")
 
 <br>
 <br>
